@@ -1,3 +1,5 @@
+package EjerciciosIF;
+
 import java.util.Scanner;
 
 public class Entrada {
